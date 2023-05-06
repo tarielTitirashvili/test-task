@@ -1,0 +1,14 @@
+{
+  "name": "test-back",
+  "version": "1.0.0",
+  "description": "test task's back-end on node",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "tarieltitirashvili@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
